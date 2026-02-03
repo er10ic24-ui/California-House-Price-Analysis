@@ -54,3 +54,6 @@ This mini-project explores the California Housing dataset to analyze key factors
 1. Clone the repository:
    ```bash
    git clone https://github.com/er10ic24-ui/California-House-Price-Analysis.git
+
+![Boxplot Example](images/boxplot.png)
+![Hexbin Example](images/hexbin.png)

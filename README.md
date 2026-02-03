@@ -2,7 +2,7 @@
 
 ## Project Description
 This mini-project explores the California Housing dataset to analyze key factors affecting house prices and build a predictive model using multiple linear regression. The project includes data exploration, visualization, feature analysis, and model assessment to understand patterns in housing prices.
-
+ 
 ## Dataset
 - **Source:** California Housing dataset
 - **Features:**

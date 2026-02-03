@@ -56,6 +56,6 @@ This mini-project explores the California Housing dataset to analyze key factors
    git clone https://github.com/er10ic24-ui/California-House-Price-Analysis.git
 
 ![Boxplot Example](images/boxplots.png)
-<img src="images/hexbin_MedInc.png" width="500" style="display:inline-block">
-<img src="images/hexbin_AveRooms.png" width="500" style="display:inline-block">
+<img src="images/hexbin_MedInc.png" width="450" style="display:inline-block">
+<img src="images/hexbin_AveRooms.png" width="450" style="display:inline-block">
 

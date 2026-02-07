@@ -60,7 +60,7 @@ This mini-project explores the California Housing dataset to analyze key factors
 .
 ├── notebooks/
 │   └── california_housing_regression.ipynb
-├── figures/
+├── images/
 │   ├── boxplots.png
 │   ├── correlation_matrix.png
 │   ├── hexbin_AveBedrms.png

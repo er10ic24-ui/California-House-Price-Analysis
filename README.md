@@ -61,9 +61,17 @@ This mini-project explores the California Housing dataset to analyze key factors
 ├── notebooks/
 │   └── california_housing_regression.ipynb
 ├── figures/
-│   ├── predicted_vs_actual.png
-│   ├── residuals.png
-│   └── feature_coefficients.png
+│   ├── boxplots.png
+│   ├── correlation_matrix.png
+│   ├── hexbin_AveBedrms.png
+│   ├── hexbin_AveOccup.png
+│   ├── hexbin_AveRooms.png
+│   ├── hexbin_HouseAge.png
+│   ├── hexbin_Latitude.png
+│   ├── hexbin_Longtitude.png
+│   ├── hexbin_MedInc.png
+│   ├── hexbin_Population.png
+│   └── predicted_vs_actual.png
 ├── README.md
 ```
 

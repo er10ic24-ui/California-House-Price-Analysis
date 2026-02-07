@@ -67,7 +67,4 @@ This mini-project explores the California Housing dataset to analyze key factors
 ├── README.md
 ```
 
-![Boxplot Example](images/boxplots.png)
-<img src="images/hexbin_MedInc.png" width="500" style="display:inline-block">
-<img src="images/hexbin_AveRooms.png" width="500" style="display:inline-block">
 
